@@ -4,7 +4,7 @@ date:
 description: La autentica jungla te espera. Parque homenaje al difunto actor Robbie
   Williams. Sientete como en cada una de sus peliculas.
 type: featured
-image: "/images/post-2.jpg"
+image: "/images/post-2.png"
 categories: []
 tags:
 - Fashion
