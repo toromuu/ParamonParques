@@ -1,11 +1,11 @@
 ---
-title: Organize Your Life With 10 Simple rule
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: MONTY PYTHON PARK
+date: 
+description: El parque con la montaña rusa más grande de la región Murciana inspirado
+  en la mitica serie de comedia montyphyton.
 type: featured
 image: "/images/featured-post/post-1.png"
-categories:
-- Valuable Idea
+categories: []
 tags:
 - Photos
 - Finance
@@ -33,11 +33,9 @@ consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porr
 ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut
 labore et dolore magnam aliquam quaerat voluptatem.
 
-
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-
+> labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+> aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 ![](../images/post-img.jpg)
 
