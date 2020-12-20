@@ -2,7 +2,7 @@
 title: Ayuda
 date: 
 description: This is meta description
-image: images/author.jpg
+image: "/images/domain_hosting_server_website-05-512.png"
 menu:
   main:
     weight: 2
