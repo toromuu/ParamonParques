@@ -1,16 +1,18 @@
 ---
 title: Ayuda
 date: 
-description: This is meta description
+description: ''
 image: "/images/domain_hosting_server_website-05-512.png"
 menu:
   main:
     weight: 2
 
 ---
-La accesibilidad es una problemática tratada y considerada ampliamente tanto en ámbitos nacionales como internacionales. Por ello se han creado una serie de recursos que permiten especificar las características que han de cumplir los contenidos disponibles mediante tecnologías Web en Internet, Intranets y otro tipo de redes informáticas, para que puedan ser utilizados por la mayor parte de las personas, incluyendo personas con discapacidad y personas de edad avanzada, de forma autónoma o mediante las ayudas técnicas pertinentes.Entre estos recursos destacan:
+La accesibilidad es una problemática tratada y considerada ampliamente tanto en ámbitos nacionales como internacionales. Por ello se han creado una serie de recursos que permiten especificar las características que han de cumplir los contenidos disponibles mediante tecnologías Web en Internet, Intranets y otro tipo de redes informáticas, para que puedan ser utilizados por la mayor parte de las personas, incluyendo personas con discapacidad y personas de edad avanzada, de forma autónoma o mediante las ayudas técnicas pertinentes.
 
-## Norma EN 301 549:2018, versión 2.1.2, "Requisitos de accesibilidad para productos y servicios TIC"
+Entre estos recursos destacan:
+
+#### Norma EN 301 549:2018, versión 2.1.2, "Requisitos de accesibilidad para productos y servicios TIC"
 
 La norma [EN 301 549:2018 versión 2.1.2](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf "EN 301 549:2018 versión 2.1.2 (Abre en nueva ventana)") especifica los requisitos funcionales de accesibilidad aplicables a los productos y servicios que incluyan TIC (sitios web, software, apps nativas, documentos, hardware, etc). Además de describir los procedimientos de prueba y la metodología de evaluación a seguir para cada requisito de accesibilidad.
 
@@ -18,7 +20,7 @@ Además, esta nueva versión de la EN 301-549 ha sido declarada por la Comisión
 
 Actualmente esta nueva versión se puede consultar en inglés en la web de [ETSI](https://www.etsi.org/ "ETSI (Abre en nueva ventana)"). No obstante, esta versión se materializa en la norma española [UNE-EN 301549:2019](http://administracionelectronica.gob.es/PAe/accesibilidad/une-en-301549-2019.pdf "UNE-EN 301549:2019") , que en virtud del acuerdo suscrito por la Secretaría de Estado de Función Pública y [AENOR](http://www.aenor.es/aenor/certificacion/resp_social/accesibilidad_tic.asp "AENOR (Abre en nueva ventana)") se puede consultar a través del PAe.
 
-## Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1
+##### Pautas de Accesibilidad para el Contenido Web (WCAG) 2.1
 
 Las [Web Content Accessibility Guidelines (WCAG) 2.1](http://www.w3.org/TR/2018/REC-WCAG21-20180605/ "Web Content Accessibility Guidelines 2.1 (Abre en nueva ventana)") son la última versión de las pautas de accesibilidad del contenido en la Web del W3C (World Wide Web Consortium).
 
