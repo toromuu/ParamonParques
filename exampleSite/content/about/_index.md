@@ -12,7 +12,7 @@ La accesibilidad es una problemática tratada y considerada ampliamente tanto en
 
 Entre estos recursos destacan:
 
-#### Norma EN 301 549:2018, versión 2.1.2, "Requisitos de accesibilidad para productos y servicios TIC"
+##### Norma EN 301 549:2018, versión 2.1.2, "Requisitos de accesibilidad para productos y servicios TIC"
 
 La norma [EN 301 549:2018 versión 2.1.2](https://www.etsi.org/deliver/etsi_en/301500_301599/301549/02.01.02_60/en_301549v020102p.pdf "EN 301 549:2018 versión 2.1.2 (Abre en nueva ventana)") especifica los requisitos funcionales de accesibilidad aplicables a los productos y servicios que incluyan TIC (sitios web, software, apps nativas, documentos, hardware, etc). Además de describir los procedimientos de prueba y la metodología de evaluación a seguir para cada requisito de accesibilidad.
 
