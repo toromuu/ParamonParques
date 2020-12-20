@@ -11,4 +11,6 @@ tags:
 - Food
 
 ---
-La mejor comida picante. Siente el fuego en tu paladar.
+La mejor comida picante. Tacos, Burritos, Enchiladas.
+
+Siente el fuego en tu paladar.
