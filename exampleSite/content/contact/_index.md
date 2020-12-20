@@ -1,12 +1,11 @@
 ---
-title: Contact
-date: 2019-05-14T14:46:10.000+06:00
-description: This is meta description
+title: Contacto
+date: 
+description: ''
 image: images/contact.jpg
 menu:
   main:
-    name: Contacto
     weight: 3
 
 ---
-Strikes the upper surface of the impenetrable foliage of my trees, and but a few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling stream and, as I lie close to the earth, a thousand unknown plants are noticed by me.<br><br>When I hear the buzz of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that universal love which bears and sustains.
+**Para cualquier duda o consulta rellena el siguiente formulario y nos pondremos en contacto contigo a la mayor brevedad posible o llámanos al 912 000 792.**
