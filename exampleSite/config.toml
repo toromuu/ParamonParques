@@ -6,17 +6,13 @@ theme = "parsa-hugo"
 title = "ParamonParques | Encuentra tu parque ideal"
 [[menu.main]]
 hasChildren = true
-name = "Homepage"
+name = "Planea tu experiencia"
 url = ""
 weight = 1
 [[menu.main]]
 name = "Homepage 1"
 parent = "Homepage"
 url = "homepage/home-1"
-[[menu.main]]
-name = "Homepage 2"
-parent = "Homepage"
-url = "homepage/home-2"
 [[menu.main]]
 name = "About"
 url = "about"
