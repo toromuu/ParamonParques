@@ -8,12 +8,19 @@ title = "ParamonParques"
 hasChildren = true
 name = "Planea tu experiencia"
 url = "homepage/home-2"
-weight = 1
+weight = "5"
 [[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
+name = "Personalizar Entrada"
+parent = "Homepage"
 url = "homepage/home-2"
-weight = 1
+[[menu.main]]
+name = "Ayuda"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Contacto"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -28,7 +35,7 @@ email = "paramonparques@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/logo-1.png"
 mobile = "+34 600 33 23 22"
 preloader = true
 search = true
