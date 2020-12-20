@@ -5,22 +5,23 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques | Encuentra tu parque ideal"
 [[menu.main]]
-hasChildren = true
-name = "Planea tu experiencia"
-url = ""
+name = "Homepage 1"
+parent = "Planea tu experiencia"
+url = "homepage/home-1"
 weight = 1
 [[menu.main]]
-name = "Personalizar Entrada"
-parent = "Homepage"
+name = "Homepage 2"
+parent = "Planea tu experiencia"
 url = "homepage/home-2"
-[[menu.main]]
-name = "Ayuda"
-url = "about"
 weight = 2
 [[menu.main]]
-name = "Contacto"
+name = "Contact"
 url = "contact"
 weight = 3
+[[menu.main]]
+name = "About"
+url = "about"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
