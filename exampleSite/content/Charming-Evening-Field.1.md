@@ -4,7 +4,8 @@ date:
 description: La mejor recreación del viejo oeste y los clásicos de western.
 type: post
 image: "/images/fw_esp-bbw_600x300.jpg"
-categories: []
+categories:
+- Actividad
 tags: []
 
 ---
