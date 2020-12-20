@@ -10,7 +10,7 @@ name = "Planea tu experiencia"
 url = ""
 weight = 1
 [[menu.main]]
-name = "Homepage 1"
+name = "Personalizar Entrada"
 parent = "Homepage"
 url = "homepage/home-1"
 [[menu.main]]
