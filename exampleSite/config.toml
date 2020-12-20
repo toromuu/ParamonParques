@@ -8,19 +8,12 @@ title = "ParamonParques"
 hasChildren = true
 name = "Planea tu experiencia"
 url = "homepage/home-2"
-weight = "5"
+weight = 1
 [[menu.main]]
-name = "Personalizar Entrada"
-parent = "Homepage"
+name = "Personalizar entrada"
+parent = "Planea tu experiencia"
 url = "homepage/home-2"
-[[menu.main]]
-name = "Ayuda"
-url = "about"
-weight = 2
-[[menu.main]]
-name = "Contacto"
-url = "contact"
-weight = 3
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
