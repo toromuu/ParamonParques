@@ -2,7 +2,7 @@
 title: Ayuda
 date: 
 description: ''
-image: "/images/domain_hosting_server_website-05-512.png"
+image: "/images/help.png"
 menu:
   main:
     weight: 2
