@@ -1,9 +1,9 @@
 ---
-title: SAN JAVIER PLANE PARK
+title: JAVIER PLANE PARK
 date: 
 description: Vuela abordo de un F-32 con nuestros simuladores de vuelo.
 type: featured
-image: "/images/post-5.jpg"
+image: "/images/post-5.png"
 categories: []
 tags:
 - Fashion
