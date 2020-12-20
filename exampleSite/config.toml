@@ -14,7 +14,7 @@ name = "Personalizar Entrada"
 parent = "Homepage"
 url = "homepage/home-1"
 [[menu.main]]
-name = "About"
+name = "Ayuda"
 url = "about"
 weight = 2
 [[menu.main]]
