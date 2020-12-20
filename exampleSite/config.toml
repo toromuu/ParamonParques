@@ -4,18 +4,17 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques | Encuentra tu parque ideal"
-[[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
-url = "homepage/home-2"
-weight = 1
+[menu.main]
+hasChildren = true
+name = "Planea tu experiencia"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
 address = "Avenida Juan Carlos I, Murcia CP 90733"
-author = "John Doe"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author = "PARAMON PARQUES"
+author_image = "images/banner-img2.png"
+bio = "Paramonparques es una plataforma online donde puedes encontrar las mejores ofertas para vivir una experiencia única en familia en un parque de atracciones de la región murciana."
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020  intu04"
 description = "This is meta description"
@@ -23,7 +22,7 @@ email = "paramonparques@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo.png"
+logo = "images/logo(2).png"
 mobile = "+34 600 33 23 22"
 preloader = true
 search = true
