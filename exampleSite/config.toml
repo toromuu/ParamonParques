@@ -4,23 +4,6 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques"
-[[menu.main]]
-hasChildren = true
-name = "Planea tu experiencia"
-url = "homepage/home-2"
-weight = "5"
-[[menu.main]]
-name = "Personalizar Entrada"
-parent = "Homepage"
-url = "homepage/home-2"
-[[menu.main]]
-name = "¿ Necesitas Ayuda ?"
-url = "about"
-weight = 2
-[[menu.main]]
-name = "Contáctanos"
-url = "contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
