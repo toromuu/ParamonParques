@@ -4,10 +4,10 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques | Encuentra tu parque ideal"
-[[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
-weight = 1
+[menu.main]
+hasChildren = true
+name = "Planea tu experiencia"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -22,7 +22,7 @@ email = "paramonparques@gmail.com"
 google_analitycs_id = "Your ID"
 home = "Home"
 layout = "1"
-logo = "images/logo(2).png"
+logo = "images/logo-2.png"
 mobile = "+34 600 33 23 22"
 preloader = true
 search = true
