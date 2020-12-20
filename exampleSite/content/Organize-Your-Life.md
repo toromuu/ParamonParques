@@ -4,7 +4,7 @@ date:
 description: El parque con la montaña rusa más grande de la región Murciana inspirado
   en la mitica serie de comedia montyphyton.
 type: featured
-image: "/images/featured-post/post-1.png"
+image: "/images/post-1.png"
 categories: []
 tags:
 - Photos
