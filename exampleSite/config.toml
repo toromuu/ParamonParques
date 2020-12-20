@@ -4,9 +4,9 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques | Encuentra tu parque ideal"
-[[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
+[menu.main]
+hasChildren = true
+name = "Planea tu experiencia"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
