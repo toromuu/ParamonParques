@@ -4,19 +4,12 @@ paginate = 6
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "ParamonParques"
-[[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
-url = "homepage/home-2"
-weight = 1
-[[menu.main]]
-name = "Planea tu experiencia"
-url = "homepage/home-2"
-weight = 1
+[menu]
+main = []
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
-address = "Avenida Juan Carlos I, Murcia CP 90733"
+address = "Avenida Juan Carlos I <br/> Murcia CP 90733"
 author = "PARAMON PARQUES"
 author_image = "images/banner-img2.png"
 bio = "Paramonparques es una plataforma online donde puedes encontrar las mejores ofertas para vivir una experiencia única en familia en un parque de atracciones de la región murciana."
