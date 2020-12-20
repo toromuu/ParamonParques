@@ -8,12 +8,19 @@ title = "ParamonParques"
 hasChildren = true
 name = "Planea tu experiencia"
 url = "homepage/home-2"
-weight = 1
+weight = "5"
 [[menu.main]]
-name = "Personalizar entrada"
-parent = "Planea tu experiencia"
+name = "Personalizar Entrada"
+parent = "Homepage"
 url = "homepage/home-2"
-weight = 1
+[[menu.main]]
+name = "Ayuda"
+url = "about"
+weight = 2
+[[menu.main]]
+name = "Contacto"
+url = "contact"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -37,7 +44,7 @@ enable = true
 expire_days = 2
 [params.instafeed]
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
-enable = true
+enable = false
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
