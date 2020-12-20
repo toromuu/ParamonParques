@@ -18,7 +18,7 @@ name = "Ayuda"
 url = "about"
 weight = 2
 [[menu.main]]
-name = "Contáctanos"
+name = "Contacto"
 url = "contact"
 weight = 3
 [outputs]
