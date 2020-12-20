@@ -3,6 +3,9 @@ title: Ayuda
 date: 
 description: ''
 image: "/images/help.png"
+menu:
+  main:
+    weight: 2
 
 ---
 La accesibilidad es una problemática tratada y considerada ampliamente tanto en ámbitos nacionales como internacionales. Por ello se han creado una serie de recursos que permiten especificar las características que han de cumplir los contenidos disponibles mediante tecnologías Web en Internet, Intranets y otro tipo de redes informáticas, para que puedan ser utilizados por la mayor parte de las personas, incluyendo personas con discapacidad y personas de edad avanzada, de forma autónoma o mediante las ayudas técnicas pertinentes.
