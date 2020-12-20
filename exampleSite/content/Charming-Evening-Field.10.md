@@ -5,7 +5,7 @@ description: Siente parte de la tribu ancestral de los mayas
 type: post
 image: "/images/espectaculos-rituales-exicanos-600x300.jpg"
 categories:
-- Food
+- Actividad
 tags:
 - Photos
 - Food
