@@ -3,7 +3,7 @@ title: BUFFALO HILL PARK
 date: 
 description: El parque temático inspirado en BennyHill ubicado en Alamo Fuente
 type: featured
-image: "/images/post-4.jpg"
+image: "/images/post-4.png"
 categories: []
 tags:
 - Philosophy

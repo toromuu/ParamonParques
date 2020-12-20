@@ -3,7 +3,7 @@ title: " CARTAGENA WORLD"
 date: 
 description: El parque temático de la época romana. Viaja atrás en el tiempo.
 type: featured
-image: "/images/post-3.jpg"
+image: "/images/post-3.png"
 categories: []
 tags:
 - Photos
